@@ -1,0 +1,15 @@
+casenumber,1,31
+vehicle_number,33,34
+occupant_number,36,37
+physical_condition,39,40
+position_in_on_vehicle,42,43
+ejection_code,45,46
+age,48,50
+sex,52,52
+location_of_most_severe_injury,54,55
+type_of_most_severe_phys_injury,57,58
+refused_medical_attention,60,61
+safety_equipment_available,63,64
+safety_equipment_used,66,67
+airbag_deployment,69,70
+hospital_code,72,75

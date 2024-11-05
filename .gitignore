@@ -1,0 +1,14 @@
+venv
+.DS_Store
+
+data/downloads/
+data/extracted/
+*.duckdb
+*.duckdb.wal
+
+# Output files
+output/
+
+# Logs
+logs/
+*.log
